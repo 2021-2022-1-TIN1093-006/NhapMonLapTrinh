@@ -4,7 +4,7 @@
  3.Huỳnh Văn Nhân 
  4.Nguyễn Đình Quân
  5.Huỳnh Quân
- 6.Nguyễn Quang Hòa
+ 6.Nguyễn Quang Hòa
  7.trần tiến lợi
  8.Đặng Công Hoàng Phúc
  9.Nguyễn Phước Tuấn Kiệt
@@ -30,4 +30,4 @@
 29.Hồ Anh Huy
 30. Trần Tiểu Quyên
 31.Nguyễn Việt Thắng
-32. Nguyễn Văn Tuấn Hải
+32.Trần Mai Hạnh

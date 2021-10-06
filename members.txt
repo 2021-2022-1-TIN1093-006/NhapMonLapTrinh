@@ -1,4 +1,4 @@
-Điền họ và tên vào bên dưới
+Ủng hộĐiền họ và tên vào bên dưới
  1. Võ Việt Dũng
  2.Trần Thị Uyên Nhi
  3.Huỳnh Văn Nhân 
@@ -17,5 +17,5 @@
 16.Nguyễn Văn Khuyến
 17. Hoàng Lê Bảo Trí
 18.Lê Xuân Toàn
-19.
+19.Hà Văn Thế
 20.

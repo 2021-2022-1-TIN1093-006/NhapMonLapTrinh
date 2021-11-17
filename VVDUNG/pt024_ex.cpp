@@ -113,7 +113,7 @@ void Kiemthu_Taimay(){
   long long n;
   printf("Nhap n [am/duong] = "); scanf("%lld",&n);
   if (n >= 0){
-    printf("He10_He2_Cong  : "); He10_He2_Cong(n);  printf("\n");
+    printf("He10_He2_Cong  : "); He10_He2_Cong(n);  printf(" (chi dung voi 19bit)\n");
     printf("He10_He2_Dequy : "); He10_He2_Dequy(n); printf("\n");
     printf("He10_He2_Mang  : "); He10_He2_Mang(n);  printf("\n");
     printf("He10_He2_Chuoi : "); He10_He2_Chuoi(n); printf("\n");
